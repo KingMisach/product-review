@@ -1,0 +1,91 @@
+body{
+    background-color: #FAF0E6;
+}
+.whole-container{
+    position: relative;
+    top: 30%;
+    left: 350px;
+    
+    bottom: 20%;
+    
+    margin: 50px;
+    height: 500px;
+    width: 600px;
+    border-style: solid ;
+    border-radius: 12px;
+    border-color: #FAF0E6;
+
+    
+    
+
+}
+.picture-container{
+    position: absolute;
+    left: 0px;
+    height: 500px;
+    width: 300px;
+
+}
+.word-container{
+    position: absolute;
+    right: 0px;
+    height: 450px; 
+    width: 250px;
+    background-color: white;
+    padding: 25px 25px 25px 25px;
+    
+    
+
+}
+.btn{
+    background-color: #005B41;
+    font-size: 12px;
+    border-radius: 8px;
+    width: 75%;
+    position: absolute;
+    bottom: 35px;
+    height: 35px;
+    
+}
+.product{
+    height: 100%;
+    width: 100%;
+
+}
+.attribution{
+    position: absolute;
+    bottom: 0px;
+    right: 50%;
+}
+p{
+   font-size: large; 
+   color: #B9B4C7;
+}
+h2{
+    color: #B9B4C7;
+}
+h1{
+    text-align: left;
+    font-weight: bolder;
+    font-family: "Fraunces", sans-serif;
+    font-size: 35px;
+    
+
+}
+#price-tag{
+    position: absolute;
+    left: 10%;
+    font-size: x-large;
+    color: #0F3D3E;
+    font-family: "Fraunces", sans-serif;
+}
+#old-price{
+    position: absolute;
+    right: 25%;
+    color: #B9B4C7 ;
+    text-decoration: line-through;
+}
+.prices{
+    position: relative;
+    top: 3%;
+}

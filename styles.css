@@ -77,12 +77,14 @@ h1{
     font-size: x-large;
     color: #0F3D3E;
     font-family: "Fraunces", sans-serif;
+    vertical-align: middle;
 }
 #old-price{
     position: absolute;
     right: 25%;
     color: #B9B4C7 ;
     text-decoration: line-through;
+    vertical-align: middle;
 }
 .prices{
     position: relative;
